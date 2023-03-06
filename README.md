@@ -1,5 +1,8 @@
 # Blankt-Javascript-spil
-Javascript game starter pack (player med bevægelse) 
+Javascript 2D spil starter pakke 
+player med bevægelse WASD
+tyngdekræft hiver spilleren ned igen efter hop
+kanter gør spilleren ikke forlader CANVAS
 
 screenshots
 ![nyt1](https://user-images.githubusercontent.com/17072539/223091785-4634cbac-c9ad-4add-9e47-cd382b4a38aa.png)
